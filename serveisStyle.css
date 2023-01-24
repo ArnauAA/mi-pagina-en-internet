@@ -1,0 +1,70 @@
+#capçalera{
+    background-color: #3D3D3D;
+    width: 100%;
+    height:15px;
+
+}
+#capçalera text{
+    color: #BFBFBF;
+    position: absolute;
+    right: 205px;
+
+}
+#capçalera2{
+        background-color: #303030;
+        width: 100%;
+        height: 80px;
+        color: white;
+}
+#login{
+    position:absolute;
+    top: 35px;
+    right: 11px;
+}
+#capçalera2 img {
+    position: absolute;
+    left: 259px;
+    height: 75px;
+    width: 75;
+
+}
+#capçalera2 text{
+    position: absolute;
+    right: 600px;
+    top:60px;
+    
+}
+a:visited {
+    color: white;
+    
+}
+a:hover{
+    color: rgb(179, 28, 28);
+}
+#colleft{
+    background-color: #686868;
+    float: left;
+    color: white;
+    width: 200px;
+    height: 1300px;
+    padding-left:8px;
+
+}
+#main img{
+    height: 50px;
+    width: 50px;
+    position:static;
+    left:105px;
+}
+#main table{
+    text-align: center;
+    top: 250px;
+    position: absolute;
+    left: 230px;
+
+}
+#main h1{
+    top: 150px;
+    left: 700px;
+    position: absolute;
+}

@@ -1,0 +1,84 @@
+#capçalera{
+    background-color: #3D3D3D;
+    width: 100%;
+    height:15px;
+
+}
+#capçalera text{
+    color: #BFBFBF;
+    position: absolute;
+    right: 205px;
+
+}
+#capçalera2{
+        background-color: #303030;
+        width: 100%;
+        height: 80px;
+        color: white;
+}
+#login{
+    position:absolute;
+    top: 35px;
+    right: 11px;
+}
+#capçalera2 img {
+    position: absolute;
+    left: 259px;
+    height: 75px;
+    width: 75;
+
+}
+#capçalera2 text{
+    position: absolute;
+    right: 600px;
+    top:60px;
+    
+}
+a:visited {
+    color: white;
+    
+}
+a:hover{
+    color: rgb(179, 28, 28);
+}
+#colleft{
+    background-color: #686868;
+    float: left;
+    color: white;
+    width: 200px;
+    height: 700px;
+    padding-left:8px;
+
+}
+#main h1{
+    position: absolute;
+    top: 200px;
+    left: 550px;
+
+}
+
+.bus {
+    width: 346px;
+    height: 410px;
+    border: 5px solid red;
+    background-color:rgb(186, 186, 186);
+    position: absolute;
+    top: 280px;
+    left: 450px;
+    text-align: justify;
+}
+.linx{
+    width: 344px;
+    height: 410px;
+    border: 5px solid red;
+    background-color:rgb(186, 186, 186);
+    position: absolute;
+    top: 280px;
+    left: 950px;
+    text-align: justify;
+}
+.noticia{
+    position: absolute;
+    top: 0px;
+    left: 545px;
+}
